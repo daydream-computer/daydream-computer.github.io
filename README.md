@@ -1,23 +1,18 @@
-# ddc-homepage
+# daydream dot computer
 
 # us
 
-we are a friendly programming-enthusiast community that wants to share our
-discoveries, experiences, and ideas in a community-created zine.
+we are a friendly programming-enthusiast community that wants to
+share our discoveries, experiences, and ideas in a zine.
 
 # goals
 
-we hope to create a zine that discusses our journeys, discoveries, and
-excitement within our exploration of programming and our personal projects.
+we hope to create a zine that highlights our exploration of programming.
 
 # reasoning
 
-as enthusiasts, we love talking about our own, and hearing other people's
-experiences with programming.
+we love hearing about people's programming experiences.
 
 # our values
 
-
-tilde.town is built around kindness, respect, intentional community, and
-inclusiveness. these are values we wish to see not only in our community, but
-also on the internet as a whole.
+kindess, respect, intentional community, and inclusiveness.
