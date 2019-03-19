@@ -1,9 +1,9 @@
 # ddc-homepage
 
-# quick summary
+# us
 
-ddc stands for daydream.computer; a friendly programming-enthusiast community
-that wants to share our experiences in a community-created zine.
+we are a friendly programming-enthusiast community that wants to share our
+discoveries, experiences, and ideas in a community-created zine.
 
 # goals
 
@@ -12,8 +12,8 @@ excitement within our exploration of programming and our personal projects.
 
 # reasoning
 
-as enthusiasts, we love talking about our own, and hearing other's experiences
-with programming.
+as enthusiasts, we love talking about our own, and hearing other people's
+experiences with programming.
 
 # the lowercase, tilde.town, and our values
 
