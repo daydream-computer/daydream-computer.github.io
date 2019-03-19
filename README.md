@@ -19,9 +19,11 @@ with programming.
 
 inconsistent lowercase is great because it's easier to type in the terminal,
 and it's more accessible to people whose main focus isn't english punctuation
-and grammar.
+and grammar. by removing the requirement to type in perfect punctuation and
+grammar, we take away any elitism associated with it. this; however, doesn't
+mean you have to type in lowercase.
 
-lowercase is also the unwritten spirit of [tilde.town](https://tilde.town/)
+lowercase is also the unwritten spirit of [tilde.town](https://tilde.town/),
 where we all met. tilde.town is built around the foundations of kindness,
 respect, intentional community, and inclusiveness. these are values we wish to
 see not only in our community, but also on the internet as a whole.
