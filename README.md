@@ -24,6 +24,8 @@ grammar, we take away any elitism associated with it. this; however, doesn't
 mean you have to type in lowercase.
 
 lowercase is also the unwritten spirit of [tilde.town](https://tilde.town/),
-where we all met. tilde.town is built around the foundations of kindness,
-respect, intentional community, and inclusiveness. these are values we wish to
-see not only in our community, but also on the internet as a whole.
+where we all met.
+
+tilde.town is built around kindness, respect, intentional community, and
+inclusiveness. these are values we wish to see not only in our community, but
+also on the internet as a whole.
